@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Arthur Oliveira Ferraz",
+      "email": "aoliveira@cod3r.com.br"
+    },
+    {
+      "id": 2,
+      "name": "Fernando Ferreira",
+      "email": "fferreira@cod3r.com.br"
+    },
+    {
+      "name": "Adriano Henrique de Souza",
+      "email": "adriano.henriquesds@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Fernando Ribeiro da Silva",
+      "email": "fribeiro@gmail.com",
+      "id": 4
+    }
+  ]
+}
